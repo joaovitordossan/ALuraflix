@@ -9,3 +9,10 @@ padding:  10px ;
 font-size: 32px;
 color: chartreuse;
 }
+section{background:rgb(235, 235, 4) ;
+padding-bottom:   80 px;
+padding-top:50px ;
+display:flex ;
+justify-content:center ;
+}
+
